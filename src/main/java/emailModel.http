@@ -1,0 +1,9 @@
+POST http://localhost:8080/emailModel
+
+ContentType: application/json
+
+{
+"name": "twe",
+"email": "amal.bouriel@gmail.com",
+"emailModel": "hey there"
+ }
